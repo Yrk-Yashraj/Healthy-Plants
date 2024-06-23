@@ -2,7 +2,7 @@
  
 ## Machine Learning Model
 
-Multi-Class Image classifier Built on PyTorch framework using CNN architecture. Currently Project Detects 17 States of disease in 4 plants namely Cherry, Pepper, Potato and tomato.
+Multi-Class Image classifier Built on PyTorch framework using CNN architecture. Currently Project Detects 17 States of disease in 4 plants namely Cherry, Pepper, Potato and Tomato.
 
 * Framework : PyTorch
 * Architecture : Convolutional Neural Networks
